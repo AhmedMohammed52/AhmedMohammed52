@@ -66,10 +66,19 @@ Building modern, responsive, and user-friendly web applications with React.
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** amohammed147258@gmail.com
-- 💻 **GitHub:** https://github.com/AhmedMohammed52
-- 🌐 **Portfolio:** *(Coming Soon)*
-- 💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+<p align="center">
+  <a href="mailto:amohammed147258@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/AhmedMohammed52">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ahmed-mohammed-99a121267/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
