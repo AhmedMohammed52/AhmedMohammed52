@@ -37,7 +37,7 @@ Building modern, responsive, and user-friendly web applications with React.
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | Circle App | Responsive React Application | 🔗 https://ahmedmohammed52.github.io/circle-app/ |
-| Portfolio | Personal Portfolio Website | 🔗 *(Coming Soon)* |
+| Portfolio | Personal Portfolio Website | 🔗 https://ahmedmohammed52.github.io/portfolio/ |
 | E-Commerce | React Shopping Application | 🔗 *(Coming Soon)* |
 
 ---
