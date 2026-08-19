@@ -14,11 +14,11 @@ Building modern, responsive, and user-friendly web applications with React.
 
 ## 🚀 About Me
 
-- 🎓 MTIS Graduate (TIS Department)
-- 💻 Front-End Developer focused on React
-- 🌱 Currently learning **Next.js** and **TypeScript**
-- 🎯 Looking for a Front-End Developer opportunity
-- 📍 Qena, Egypt
+* 🎓 MTIS Graduate (TIS Department)
+* 💻 Front-End Developer focused on React
+* 🌱 Currently learning **Next.js** and **TypeScript**
+* 🎯 Looking for a Front-End Developer opportunity
+* 📍 Qena, Egypt
 
 ---
 
@@ -34,11 +34,26 @@ Building modern, responsive, and user-friendly web applications with React.
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| Circle App | Responsive React Application | 🔗 https://ahmedmohammed52.github.io/circle-app/ |
-| Portfolio | Personal Portfolio Website | 🔗 https://ahmedmohammed52.github.io/portfolio/ |
-| E-Commerce | React Shopping Application | 🔗 *(Coming Soon)* |
+| Project        | Description                                                                                                        | Live Demo                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **ATHLIX**     | Sportswear E-Commerce Platform built with React, Supabase, Tailwind CSS, and TanStack React Query                  | 🔗 [Live Demo](https://ahmedmohammed52.github.io/athlix-ecommerce/) |
+| **Circle App** | Responsive React Social Media Platform with authentication, CRUD operations, REST API integration, and Context API | 🔗 [Live Demo](https://ahmedmohammed52.github.io/circle-app/)       |
+| **Portfolio**  | Personal Portfolio Website showcasing my projects and front-end development skills                                 | 🔗 [Live Demo](https://ahmedmohammed52.github.io/portfolio/)        |
+
+---
+
+## 🛍️ ATHLIX Highlights
+
+* 🛒 Product catalog, product variants, shopping bag, wishlist, and checkout
+* 🔐 Authentication with protected and guest routes
+* 👤 User accounts, profiles, password recovery, and order management
+* ⚡ TanStack React Query for server-state management
+* 🗄️ Supabase integration for backend services and authentication
+* 🧩 Reusable React component and service-layer architecture
+* 📝 Form handling and validation with React Hook Form and Zod
+* 📱 Responsive UI with Tailwind CSS
+* ✨ Interactive animations with Framer Motion
+* 📦 Stock & Inventory Management — **In Progress**
 
 ---
 
@@ -67,7 +82,8 @@ Building modern, responsive, and user-friendly web applications with React.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:amohammed147258@gmail.com">
+
+  <a href="mailto:ahmedmohamed.220504@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 
@@ -78,6 +94,7 @@ Building modern, responsive, and user-friendly web applications with React.
   <a href="https://www.linkedin.com/in/ahmed-mohammed-99a121267/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+
 </p>
 
 ---
